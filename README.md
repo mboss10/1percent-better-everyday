@@ -3,5 +3,5 @@ I believe that learning a new thing everyday, either on a professional or person
 I will add them in descending order (most recent at the top).
 
 ## 2024-07-07 | SQL MAX_BY() function
-Today I learn how to use the MAX_BY() function as an alternative to use a subquery/CTE.  
+Today I learned how to use the MAX_BY() function as an alternative to use a subquery/CTE.  
 <a href="./20240707-SQL_max_by.md" target="_blank">Details here</a>
