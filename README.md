@@ -3,4 +3,4 @@ I believe that learning a new thing everyday, either on a professional or person
 
 ## SQL MAX_BY() function
 Today I learn how to use the MAX_BY() function as an alternative to use a subquery/CTE. 
-<a href"">Details here</a>
+<a href="./20240707-SQL_max_by.md">Details here</a>
