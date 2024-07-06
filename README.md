@@ -1,4 +1,4 @@
-# 1% better everyday
+# 1% Better Everyday
 I believe that learning a new thing everyday, either on a professional or personal level, will contribute to make a 1% better version of myself everyday. This repository will help me document and share my learnings.  
 I will add them in descending order (most recent at the top).
 
