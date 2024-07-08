@@ -4,4 +4,4 @@ I will add them in descending order (most recent at the top).
 
 ## 2024-07-08 | SQL MAX_BY() function
 Today I learned how to use the MAX_BY() function as an alternative to use a subquery/CTE.  
-<a href="./20240707-SQL_max_by.md" target="_blank">Details here</a>
+<a href="./20240708-SQL_max_by.md" target="_blank">Details here</a>
