@@ -6,6 +6,7 @@ Before diving into data analysis, it is crucial to assess data quality and ident
 
 To illustrate this method, we'll use the [San Francisco Building Permits file available on Kaggle](https://www.kaggle.com/datasets/aparnashastry/building-permit-applications-data). This dataset contains details of all types of structural permits issued from January 1, 2013, to February 25, 2018. It includes application/permit numbers, job addresses, supervisorial districts, and the current status of applications.  
 This file has a significant amount of NULL/missing data in several columns, making it an excellent example for demonstrating how to identify missing data.
+<img src="./SF_permits.png" width="600px"></img>
 
 ## The Classic Way
 
@@ -15,9 +16,10 @@ Assuming we have loaded the data into a DataFrame called `sf_permits`, we can us
 sf_permits.info()
 ```
 
-This command will provide a concise summary of the DataFrame, including the number of non-null entries per column. Here's a sample output:
+This command will provide a concise summary of the DataFrame, including the number of non-null entries per column.  
+Here's a sample output:
 
-![info_output](./SF_permits_info.png)
+<img src="./SF_permits_info.png" width="600px"></img>
 
 ## Going Beyond the `.info()`
 
@@ -35,12 +37,9 @@ This code calculates the percentage of missing values for each column and sorts 
 
 Here's an example of what the output might look like:
 
-![missing_data_output](path_to_missing_data_image)
+<img src="./SF_permits_missing_percentage.png" width="600px"></img>
 
 ## Conclusion
 
 Identifying the percentage of missing data in your dataset is an essential step in the data preparation process. By understanding the extent of missing values, you can make informed decisions on how to handle them, ensuring the accuracy and reliability of your data analysis.
 
----
-
-By providing a clearer structure and context, this revised article aims to make it easier for readers to follow along and apply the techniques to their own datasets.
