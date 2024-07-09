@@ -4,7 +4,7 @@ Before diving into data analysis, it is crucial to assess data quality and ident
 
 ## San Francisco Building Permits Sample File
 
-To illustrate this method, we'll use the [San Francisco Building Permits file available on Kaggle](https://www.kaggle.com/datasets). This dataset contains details of all types of structural permits issued from January 1, 2013, to February 25, 2018. It includes application/permit numbers, job addresses, supervisorial districts, and the current status of applications.  
+To illustrate this method, we'll use the [San Francisco Building Permits file available on Kaggle](https://www.kaggle.com/datasets/aparnashastry/building-permit-applications-data). This dataset contains details of all types of structural permits issued from January 1, 2013, to February 25, 2018. It includes application/permit numbers, job addresses, supervisorial districts, and the current status of applications.  
 This file has a significant amount of NULL/missing data in several columns, making it an excellent example for demonstrating how to identify missing data.
 
 ## The Classic Way
@@ -17,7 +17,7 @@ sf_permits.info()
 
 This command will provide a concise summary of the DataFrame, including the number of non-null entries per column. Here's a sample output:
 
-![info_output](path_to_info_image)
+![info_output](./SF_permits_info.png)
 
 ## Going Beyond the `.info()`
 
