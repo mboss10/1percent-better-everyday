@@ -3,7 +3,7 @@ I believe that learning a new thing everyday, either on a professional or person
 I will add them in descending order (most recent at the top).
 
 ## 2024-07-10 | Python - Using pandas to Find the Percentage of Missing Data in a Dataset
-Today I learned how to go beyond the `info()` method to get a clearer and more detailed picture of missing data in a dataset.
+Today I learned how to go beyond the `info()` method to get a clearer and more detailed picture of missing data in a dataset.  
 <a href="./learnings/20240710-Python_Percentage_Missing_Data.md" target="_blank">Details here</a>
 
 ## 2024-07-09 | Excel - LET() function
