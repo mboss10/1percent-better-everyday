@@ -8,4 +8,4 @@ Today I learrned about the LET() function in Excel. It is a powerful tool that a
 
 ## 2024-07-08 | SQL MAX_BY() function
 Today I learned how to use the MAX_BY() function as an alternative to use a subquery/CTE.  
-<a href="./20240708-SQL_max_by.md" target="_blank">Details here</a>
+<a href="./learnings/20240708-SQL_max_by.md" target="_blank">Details here</a>
