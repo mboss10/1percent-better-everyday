@@ -47,7 +47,7 @@ But we want the following rule configured:
   bonus
 )
 ```
-<img src="./Excel_LET.png" width="800px"></img>
+<img src="../images/Excel_LET.png" width="800px"></img>
 
 ## 5. Availability:
 The LET() function is available in Excel 365, Excel 2021, and Excel for the web.
