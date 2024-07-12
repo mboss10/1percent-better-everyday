@@ -3,7 +3,7 @@ I believe that learning a new thing everyday, either on a professional or person
 I will add them in descending order (most recent at the top).
 
 ## 2024-07-11 | GitHub - Create folders in GitHub to stay organized
-Today I learned how to organize my mess in GitHub. Always thought you could not have folders in repositories, I was SO wrong ...
+Today I learned how to organize my mess in GitHub. Always thought you could not have folders in repositories, I was SO wrong ...  
 <a href="./learnings/20240711 - GitHub_create_folder.md" target="_blank">Details here</a>
 
 ## 2024-07-10 | Python - Using pandas to Find the Percentage of Missing Data in a Dataset
