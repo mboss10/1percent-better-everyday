@@ -2,6 +2,10 @@
 I believe that learning a new thing everyday, either on a professional or personal level, will contribute to make a 1% better version of myself everyday.<br>This repository will help me document and share my learnings.<br><br>
 I will add them in descending order (most recent at the top).
 
+## 2024-07-11 | GitHub - Create folders in GitHub to stay organized
+Today I learned how to organize my mess in GitHub. Always thought you could not have folders in repositories, I was SO wrong ...
+<a href="./learnings/20240711 - GitHub_create_folder.md" target="_blank">Details here</a>
+
 ## 2024-07-10 | Python - Using pandas to Find the Percentage of Missing Data in a Dataset
 Today I learned how to go beyond the `info()` method to get a clearer and more detailed picture of missing data in a dataset.  
 <a href="./learnings/20240710-Python_Percentage_Missing_Data.md" target="_blank">Details here</a>
