@@ -4,7 +4,7 @@ I will add them in descending order (most recent at the top).
 
 ## 2024-07-12 | SQL - RANK() VS DENSE_RANK()
 Today I learned the differences and benefits of RANK() and DENSE_RANK() SQL functions and in which scenario/use cases to use them.  
-<a href="./20240712 - SQL RANK() VS DENSE_RANK().md" target="_blank">Details here</a>
+<a href="./learnings/20240712 - SQL RANK() VS DENSE_RANK().md" target="_blank">Details here</a>
 
 ## 2024-07-11 | GitHub - Create folders in GitHub to stay organized
 Today I learned how to organize my mess in GitHub. Always thought you could not have folders in repositories, I was SO wrong ...  
