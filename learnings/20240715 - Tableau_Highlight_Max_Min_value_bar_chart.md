@@ -63,7 +63,7 @@ END
 
 I have published a dashboard on Tableau Public that can be seen <a href="https://public.tableau.com/views/HighlightMaxMinExamples/HighlightMaxMinDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">here</a>  
 
-The workbook is also available in here on GitHub
+The workbook is also available in <a href="../workbook/HighlightMaxMinExamples.twbx" target="_blank">here on GitHub</a>
 
 ### **Conclusion**
 
