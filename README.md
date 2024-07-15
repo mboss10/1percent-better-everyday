@@ -4,7 +4,7 @@ I will add them in descending order (most recent at the top).
 
 ## 2024-07-15 | Tableau - Highlight Max/Min values in a Bar Chart
 Today I learned to highlight the maximum and minimum values in a Tableau bar chart to help emphasize key data points of an analysis.  
-<a href="./learnings/20240715 - Tableau() VS DENSE_RANK().md" target="_blank">Details here</a>
+<a href="./learnings/20240715 - Tableau_Highlight_Max_Min_value_bar_chart.md" target="_blank">Details here</a>
 
 ## 2024-07-12 | SQL - RANK() VS DENSE_RANK()
 Today I learned the differences and benefits of RANK() and DENSE_RANK() SQL functions and in which scenario/use cases to use them.  
