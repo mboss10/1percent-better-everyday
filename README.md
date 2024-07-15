@@ -2,6 +2,10 @@
 I believe that learning a new thing everyday, either on a professional or personal level, will contribute to make a 1% better version of myself everyday.<br>This repository will help me document and share my learnings.<br><br>
 I will add them in descending order (most recent at the top).
 
+## 2024-07-15 | Tableau - Highlight Max/Min values in a Bar Chart
+Today I learned to highlight the maximum and minimum values in a Tableau bar chart to help emphasize key data points of an analysis.  
+<a href="./learnings/20240715 - Tableau() VS DENSE_RANK().md" target="_blank">Details here</a>
+
 ## 2024-07-12 | SQL - RANK() VS DENSE_RANK()
 Today I learned the differences and benefits of RANK() and DENSE_RANK() SQL functions and in which scenario/use cases to use them.  
 <a href="./learnings/20240712 - SQL RANK() VS DENSE_RANK().md" target="_blank">Details here</a>
