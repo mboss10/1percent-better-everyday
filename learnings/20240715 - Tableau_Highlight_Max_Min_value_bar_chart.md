@@ -61,6 +61,10 @@ ELSE "Other"
 END
 ```
 
+I have published a dashboard on Tableau Public that can be seen <a href="https://public.tableau.com/views/HighlightMaxMinExamples/HighlightMaxMinDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" target="_blank">here</a>  
+
+The workbook is also available in here on GitHub
+
 ### **Conclusion**
 
 By following these steps, you can effectively highlight the maximum and minimum values in your Tableau bar chart, making it easier to identify key data points at a glance. This technique can be particularly useful in dashboards and reports where visual emphasis on extreme values is important.
