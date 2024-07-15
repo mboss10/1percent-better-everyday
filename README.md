@@ -2,6 +2,10 @@
 I believe that learning a new thing everyday, either on a professional or personal level, will contribute to make a 1% better version of myself everyday.<br>This repository will help me document and share my learnings.<br><br>
 I will add them in descending order (most recent at the top).
 
+## 2024-07-12 | SQL - RANK() VS DENSE_RANK()
+Today I learned the differences and benefits of RANK() and DENSE_RANK() SQL functions and in which scenario/use cases to use them.  
+<a href="./20240712 - SQL RANK() VS DENSE_RANK().md" target="_blank">Details here</a>
+
 ## 2024-07-11 | GitHub - Create folders in GitHub to stay organized
 Today I learned how to organize my mess in GitHub. Always thought you could not have folders in repositories, I was SO wrong ...  
 <a href="./learnings/20240711 - GitHub_create_folder.md" target="_blank">Details here</a>
