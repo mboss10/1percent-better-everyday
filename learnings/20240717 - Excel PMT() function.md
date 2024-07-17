@@ -1,7 +1,7 @@
 # Using the PMT Function in Excel
 
 The PMT function in Excel is a powerful financial tool used to calculate the periodic payment for a loan or investment based on constant payments and a constant interest rate. 
-This guide will explain how to use the PMT function effectively in your Excel spreadsheets.
+This guide will explain how to use the PMT function effectively in our Excel spreadsheets.
 
 ## Syntax
 
@@ -60,7 +60,7 @@ This returns -$129.08, representing the monthly savings amount.
 
 1. **Consistent Units**: Ensure that the `rate` and `nper` use consistent time units. For example, if payments are monthly, divide the annual rate by 12 and multiply the number of years by 12.
 
-2. **Positive Results**: If you prefer positive results, add a negative sign before the PMT function:
+2. **Positive Results**: If we prefer positive results, we add a negative sign before the PMT function:
    ```excel
    =-PMT(rate, nper, pv)
    ```
@@ -72,18 +72,8 @@ This returns -$129.08, representing the monthly savings amount.
    =ROUND(PMT(rate, nper, pv), 2)
    ```
 
-5. **Error Checking**: Verify your inputs to avoid errors. Common mistakes include using incorrect rate periods or forgetting to adjust the annual rate to a periodic rate.
-
-## Advanced Usage
-
-For more complex scenarios, such as Canadian mortgages with semi-annual compounding, you may need to adjust the rate calculation:
-
-```excel
-=PMT((annual_rate/2+1)^(1/6)-1, nper, pv)
-```
-
-This formula accounts for semi-annual compounding with monthly payments.
+5. **Error Checking**: Verify our inputs to avoid errors. Common mistakes include using incorrect rate periods or forgetting to adjust the annual rate to a periodic rate.
 
 ## Conclusion
 
-The PMT function is a versatile tool for financial calculations in Excel. By understanding its syntax and applying best practices, you can accurately calculate loan payments, savings goals, and other periodic payment scenarios. Remember to always verify your results and consider the specific terms of the financial product you're working with.
+The PMT function is a versatile tool for financial calculations in Excel. By understanding its syntax and applying best practices, we can accurately calculate loan payments, savings goals, and other periodic payment scenarios. 
