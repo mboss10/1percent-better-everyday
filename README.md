@@ -2,6 +2,10 @@
 I believe that learning a new thing everyday, either on a professional or personal level, will contribute to make a 1% better version of myself everyday.<br>This repository will help me document and share my learnings.<br><br>
 I will add them in descending order (most recent at the top).
 
+## 2024-07-17 | Excel - PMT() function
+Today I learrned about the PMT() function in Excel. It is a powerful financial tool used to calculate the periodic payment for a loan or investment based on constant payments and a constant interest rate.  
+<a href="./learnings/20240717 - Excel PMT() function.md" target="_blank">Details here</a>
+
 ## 2024-07-16 | Python - Configuring a .env File
 Today I learned how to use environment variables as an excellent way to store sensitive information like API keys, ensuring they're not exposed in my code.  
 <a href="./learnings/20240716 - Python_Save_API_Keys.md" target="_blank">Details here</a>
@@ -23,7 +27,7 @@ Today I learned how to go beyond the `info()` method to get a clearer and more d
 <a href="./learnings/20240710-Python_Percentage_Missing_Data.md" target="_blank">Details here</a>
 
 ## 2024-07-09 | Excel - LET() function
-Today I learrned about the LET() function in Excel. It is a powerful tool that allows users to define named variables within formulas, significantly enhancing formula readability, efficiency, and maintainability. By enabling the creation of descriptive variable names for intermediate calculations, LET() simplifies complex formulas, improves performance by reducing redundant calculations, and makes spreadsheets more accessible to collaborators and future editors.  
+c It is a powerful tool that allows users to define named variables within formulas, significantly enhancing formula readability, efficiency, and maintainability. By enabling the creation of descriptive variable names for intermediate calculations, LET() simplifies complex formulas, improves performance by reducing redundant calculations, and makes spreadsheets more accessible to collaborators and future editors.  
 <a href="./learnings/20240709-Excel_LET()_function.md" target="_blank">Details here</a>
 
 ## 2024-07-08 | SQL - MAX_BY() function
