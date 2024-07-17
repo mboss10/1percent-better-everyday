@@ -2,6 +2,10 @@
 I believe that learning a new thing everyday, either on a professional or personal level, will contribute to make a 1% better version of myself everyday.<br>This repository will help me document and share my learnings.<br><br>
 I will add them in descending order (most recent at the top).
 
+## 2024-07-16 | Python - Configuring a .env File
+Today I learned how to use environment variables as an excellent way to store sensitive information like API keys, ensuring they're not exposed in my code.
+<a href="./learnings/20240716 - Python_Save_API_Keys.md" target="_blank">Details here</a>
+
 ## 2024-07-15 | Tableau - Highlight Max/Min values in a Bar Chart
 Today I learned to highlight the maximum and minimum values in a Tableau bar chart to help emphasize key data points of an analysis.  
 <a href="./learnings/20240715 - Tableau_Highlight_Max_Min_value_bar_chart.md" target="_blank">Details here</a>
