@@ -3,7 +3,7 @@ I believe that learning a new thing everyday, either on a professional or person
 I will add them in descending order (most recent at the top).
 
 ## 2024-07-16 | Python - Configuring a .env File
-Today I learned how to use environment variables as an excellent way to store sensitive information like API keys, ensuring they're not exposed in my code.
+Today I learned how to use environment variables as an excellent way to store sensitive information like API keys, ensuring they're not exposed in my code.  
 <a href="./learnings/20240716 - Python_Save_API_Keys.md" target="_blank">Details here</a>
 
 ## 2024-07-15 | Tableau - Highlight Max/Min values in a Bar Chart
