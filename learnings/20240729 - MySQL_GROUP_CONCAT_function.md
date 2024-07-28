@@ -109,11 +109,3 @@ SET SESSION group_concat_max_len = 2048;
 ### **Conclusion**
 
 The `GROUP_CONCAT` function in MySQL is a powerful tool for aggregating and concatenating data from multiple rows into a single string. By understanding its syntax and options, you can effectively use this function to simplify and enhance your data queries.
-
-
-Citations:
-[1] https://www.w3resource.com/mysql/aggregate-functions-and-grouping/aggregate-functions-and-grouping-group_concat.php
-[2] https://www.javatpoint.com/mysql-group_concat-function
-[3] https://www.alibabacloud.com/help/en/maxcompute/use-cases/implement-capabilities-provided-by-the-group-concat-function
-[4] https://www.mysqltutorial.org/mysql-aggregate-functions/mysql-group_concat-function/
-[5] https://www.sqlines.com/mysql/functions/group_concat
