@@ -2,6 +2,10 @@
 I believe that learning a new thing everyday, either on a professional or personal level, will contribute to make a 1% better version of myself everyday.<br>This repository will help me document and share my learnings.<br><br>
 I will add them in descending order (most recent at the top).
 
+## 2024-07-29 | MySQL - GROUP_CONCAT() function
+Today I learrned about the GROUP_CONCAT() function in MySQL. It is used to concatenate data from multiple rows into one field. This is an aggregate (GROUP BY) function that returns a String value if the group contains at least one non-NULL value.  
+<a href="./learnings/20240729 - MySQL_GROUP_CONCAT().md" target="_blank">Details here</a>
+
 ## 2024-07-17 | Excel - PMT() function
 Today I learrned about the PMT() function in Excel. It is a powerful financial tool used to calculate the periodic payment for a loan or investment based on constant payments and a constant interest rate.  
 <a href="./learnings/20240717 - Excel PMT() function.md" target="_blank">Details here</a>
